@@ -1,0 +1,7 @@
+*Installation
+
+$ make
+$ mkdir ~/.purple/plugins/
+$ cp pidgin_notify.so ~/.purple/plugins/
+
+Now you can select "custom notify" from pidgin plugin list.
